@@ -1,5 +1,5 @@
 import React from 'react'
-import { ChevronDoubleLeftIcon, XMarkIcon } from '@heroicons/react/24/solid';
+import { ChevronDoubleLeftIcon} from '@heroicons/react/24/solid';
 import { setRemoveItem } from '../../app/ItemSlice';
 import { useDispatch } from 'react-redux';
 
@@ -13,6 +13,7 @@ const ItemInfo = ({onItemToggle}) => {
 
     return (
         <>
+        
             <div className='bg-white h-11 flex items-center justify-between px-3 sticky top-0 left-0 right-0 w-full'>
                 <div className='flex items-center gap-3'>
                     <div className='grid items-center cursor-pointer' onClick={onItemToggle}>

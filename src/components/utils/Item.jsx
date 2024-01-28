@@ -31,7 +31,7 @@ const Item = ({
 
   const onAddtoItem = ()=> {
 
-    const item = {id, title, text,img,color,shadow,price}
+    const item = {id, title, text,img,color,shadow,price,rating}
   
     dispatch(setAddItem(item));
   }
