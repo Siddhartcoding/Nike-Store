@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/nike-store/static/css/main.107c0f43.css",
+    "main.js": "/nike-store/static/js/main.bfbef7f1.js",
+    "static/js/787.6a3bce9d.chunk.js": "/nike-store/static/js/787.6a3bce9d.chunk.js",
+    "static/media/product10.png": "/nike-store/static/media/product10.5cf07402a4a3aee66e1d.png",
+    "static/media/product1.png": "/nike-store/static/media/product1.d2d46288b3f964c06841.png",
+    "static/media/product6.png": "/nike-store/static/media/product6.13e09cbb4804c9190959.png",
+    "static/media/product8.png": "/nike-store/static/media/product8.712eea95c502c9cdafa2.png",
+    "static/media/product5.png": "/nike-store/static/media/product5.7d40cbdf8faccc476e00.png",
+    "static/media/product3.png": "/nike-store/static/media/product3.cc141b8c1df4a8ca9180.png",
+    "static/media/product11.png": "/nike-store/static/media/product11.e632016cd8c0a3f073ca.png",
+    "static/media/sneaker.png": "/nike-store/static/media/sneaker.898a3f472f931263efaa.png",
+    "static/media/product7.png": "/nike-store/static/media/product7.1cc87ac050a19ea744b2.png",
+    "static/media/product4.png": "/nike-store/static/media/product4.30bd525967e89d1acf92.png",
+    "static/media/product9.png": "/nike-store/static/media/product9.be6ae655d7286d1712c0.png",
+    "static/media/product2.png": "/nike-store/static/media/product2.5f4b6da9e126aac0ec4f.png",
+    "static/media/nike-air-red.png": "/nike-store/static/media/nike-air-red.30c67f98db94a72aee5b.png",
+    "static/media/hightlightimg.png": "/nike-store/static/media/hightlightimg.276fe1da9cf510cc437e.png",
+    "static/media/hero.png": "/nike-store/static/media/hero.595fcef1e71d84640c75.png",
+    "static/media/nike-adapt-bb-smart.png": "/nike-store/static/media/nike-adapt-bb-smart.3ea6a0215b55e4b50817.png",
+    "static/media/product12.png": "/nike-store/static/media/product12.2723ee864e6d23664a2b.png",
+    "static/media/nike-adapt-bb.png": "/nike-store/static/media/nike-adapt-bb.52daf82e7f2d986c15dd.png",
+    "static/media/emptybag.png": "/nike-store/static/media/emptybag.cace10dfcc6ced9dfb9b.png",
+    "static/media/logo.png": "/nike-store/static/media/logo.aa3419b8b2c6dda5adad.png",
+    "static/media/instagram.svg": "/nike-store/static/media/instagram.dcebfd64ac5fde47507d605c0aa14634.svg",
+    "static/media/twitter.svg": "/nike-store/static/media/twitter.0ba897192d33c49eac3d890b0ef37291.svg",
+    "index.html": "/nike-store/index.html",
+    "static/media/messenger.svg": "/nike-store/static/media/messenger.caa8584e29cb21f09c8f464ca6c7dab9.svg",
+    "static/media/facebook.svg": "/nike-store/static/media/facebook.449a424f959807f71a24bba589c298e5.svg",
+    "main.107c0f43.css.map": "/nike-store/static/css/main.107c0f43.css.map",
+    "main.bfbef7f1.js.map": "/nike-store/static/js/main.bfbef7f1.js.map",
+    "787.6a3bce9d.chunk.js.map": "/nike-store/static/js/787.6a3bce9d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.107c0f43.css",
+    "static/js/main.bfbef7f1.js"
+  ]
+}
