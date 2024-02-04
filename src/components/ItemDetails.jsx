@@ -36,7 +36,7 @@ const ItemDetails = () => {
 
             <div
                 className={`blur-effect-theme duration-500 h-screen
-                 max-w-xl w-full absolute right-0 
+                 max-w-xl w-full absolute right-0 bg-gradient-to-b ${items.color}-90
                  ${ifItemState
                         ? "opacity-100 visible translate-x-0"
                         : "opacity-0 invisible translate-x-8"
